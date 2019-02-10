@@ -1,6 +1,11 @@
 # ComputationalAdvertising
 online advertising system demo
 
+resources
+have the sql file to create a demo databse
+1) mysql>source ad-sponsor.sql
+
+
 southwood-ad-spring-cloud
 
 1) package 
