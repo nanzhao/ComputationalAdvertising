@@ -1,6 +1,7 @@
 package com.southwood.ad.entity.unit_condition;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
@@ -8,6 +9,8 @@ import javax.persistence.*;
 /**
  * Created by nanzhao on 2019/2/10 3:13 PM
  */
+
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
