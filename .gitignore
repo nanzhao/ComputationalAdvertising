@@ -27,3 +27,5 @@ hs_err_pid*
 
 southwood-ad-spring-cloud/ad-eureka/target/
 southwood-ad-spring-cloud/ad-gateway/target/
+southwood-ad-spring-cloud/southwood-ad-service/ad-search/target/
+southwood-ad-spring-cloud/southwood-ad-service/ad-sponsor/target/
